@@ -2,26 +2,24 @@
 title: Intro to HPC
 ---
 
-Section 1
+**1.1**{: .label .label-purple }
 : [What is HPC?](#)
-  : [PDF](#)
-    : [Video](#)
-      : [Quiz 1](https://forms.gle/RwnUcuqLiWj6uvfw6)
-
-**Section 2**{: .label .label-purple }[Accounts on RCC](#)
- : [PDF](#)
    : [Video](#)
-     
-**Quiz 2**{: .label .label-purple } [Accounts](https://forms.gle/RwnUcuqLiWj6uvfw6)
- 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+      :[Docs](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+**1.2**{: .label .label-purple }
+: [Accounts](#)
+   : [Video](#)
+      :[Docs](#)
+      
+**1.3**{: .label .label-purple }
+: [Login Guidelines](#)
+   : [Video](#)
+      :[Docs](#)
+      
+**1.4**{: .label .label-purple }
+: [Additional Services](#)
+   : [Video](#)
+      :[Docs](#)
+      
+**Quiz**{: .label .label-red }(#)
