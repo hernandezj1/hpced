@@ -1,8 +1,7 @@
 ---
-name: Kevin Lin
+name: Marcelina Nagales
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
+email: mnagales@fsu.edu
 photo: kevin.jpg
 ---
 
