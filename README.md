@@ -12,5 +12,5 @@ seo:
 
   By following these modules you will gain a better understanding of how High Performance Computing can help your research and instruction at Florida State University. The information inn this course is baseed on the Research Computing Center's documentation which can be found here <a href="https://docs.rcc.fsu.edu/">Docs</a>
 
-![](../assets/images/paul.png)
+![](https://github.com/hernandezj1/hpced//paul.png?raw=true)
 
