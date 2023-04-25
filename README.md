@@ -15,6 +15,7 @@ seo:
 ## Goals
 
   This 1 hour collection of videos and written resources will communicate the following learning goals:
+  
    - hahaha
    - jajajajaj
    - hehehehehe
