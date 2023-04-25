@@ -22,4 +22,4 @@ title: Intro to HPC
    : [Video](#)
       :[Docs](#)
       
-Quiz(#)
+[Quiz](#){: .label .label-red }
