@@ -24,7 +24,7 @@ This course was designed by the Software Team of the Research Comuting Center to
 ## Structure
     
 This course is divided into 2 tracks depending on the technical background of the learner. If you have experinec using a __terminal__ and want to use it to login and use oru services please use *Track 1*. if you are more comfortable using our User interface __Open ONDemand__ follow *Track 2*. Once you select your track you will follow all the other sections for a total fo 4 sectiions per learner ( uness you want to learn both ways of using our HPC system. 
-    The 5 sections of the course cover the follwoing topics
+The 5 sections of the course cover the following topics
         1. Intro to High Performance Computing -
         
             Lorem Ipsum
