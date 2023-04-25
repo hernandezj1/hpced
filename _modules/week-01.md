@@ -8,10 +8,13 @@ Section 1
     : [Video](#)
       : [Quiz 1](https://forms.gle/RwnUcuqLiWj6uvfw6)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
+**Section 2**{: .label .label-purple }[Accounts on RCC](#)
+ : [PDF](#)
+   : [Video](#)
+     : [Quiz 1](https://forms.gle/RwnUcuqLiWj6uvfw6)
+     
+**Quiz 2**{: .label .label-purple } [Accounts](https://forms.gle/RwnUcuqLiWj6uvfw6)
+ 
 Sep 30
 : [Variables & Objects](#)
   : [1.2](#), [2.1](#)
