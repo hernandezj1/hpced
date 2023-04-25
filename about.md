@@ -28,13 +28,13 @@ The 5 sections of the course cover the following topics
 
 1. <ins>Intro to High Performance Computing</ins> -
 
-2. Track 1- SSH/terminal
+2. <ins>Track 1- SSH/terminal</ins>
       
-3. Track 2- Open ONDemand
+3. <ins>Track 2- Open ONDemand</ins>
 
-4. Software Specific Module- Python
+4. <ins>Software Specific Module- Python</ins>
 
-5. Trouble-Shooting
+5. <ins>Trouble-Shooting</ins>
 
 
 ## Additional Resources
