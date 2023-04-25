@@ -1,7 +1,7 @@
 ---
 name: Jose Hernandez
 role: Instructor
-email: me@example.com
+email: jah22q@fsu.edu
 website: https://rcc.fsu.edu/staff/jose-hernandez
 photo: jose-h-headshot.jpg
 ---
