@@ -10,9 +10,16 @@ seo:
 
 # Welcome to the RCC's HPC Driver's Ed course.
 
-  By following the modules you will gain a better understanding of how High performance Computing can help your research and instruction at Florida State University. 
+  By following these modules you will gain a better understanding of how High Performance Computing can help your research and instruction at Florida State University. 
 
 ## Goals
+
+  This 1 hour collection of videos and written resources will communicate the following learning goals:
+   - hahaha
+   - jajajajaj
+   - hehehehehe
+   - jejejejeje
+ 
 
 ## Structure
 
