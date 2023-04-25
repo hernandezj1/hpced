@@ -12,7 +12,16 @@ seo:
 
   By following these modules you will gain a better understanding of how High Performance Computing can help your research and instruction at Florida State University. 
 
-## Goals
+---
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+### Goals
 
   This 1 hour collection of videos and written resources will communicate the following learning goals:
   
@@ -22,6 +31,6 @@ seo:
    - jejejejeje
  
 
-## Structure
+### Structure
 
-## Additional Resources
+### Additional Resources
