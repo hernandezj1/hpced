@@ -28,8 +28,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Jose Hernandez:
-    - 'https://github.com/hernandezj1'
   HPC Driver's Ed on GitHub:
     - 'https://github.com/hernandezj1/hpced'
 footer_content:
