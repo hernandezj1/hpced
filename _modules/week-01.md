@@ -11,7 +11,6 @@ Section 1
 **Section 2**{: .label .label-purple }[Accounts on RCC](#)
  : [PDF](#)
    : [Video](#)
-     : [Quiz 1](https://forms.gle/RwnUcuqLiWj6uvfw6)
      
 **Quiz 2**{: .label .label-purple } [Accounts](https://forms.gle/RwnUcuqLiWj6uvfw6)
  
