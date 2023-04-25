@@ -2,6 +2,6 @@
 title: Final Certification
 ---
 
-[Quiz](#){: .label .label-red }
+[Quiz](https://forms.gle/CfHN1CifvjenJ6qB9){: .label .label-red }
 
-Please send your results to __support.rcc.fsu.edu__ with the subject __HPC Driver's Ed completion__ for certificate. 
+If you pass the Quiz with 80% or more you will get your certificate as a __Certified HPC User__ in your email
