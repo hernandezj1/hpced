@@ -1,10 +1,12 @@
 ---
-title: Introduction to Java
+title: Intro to HPC
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Section 1
+: [What is HPC?](#)
+  : [PDF](#)
+    : [Video](#)
+      : [Quiz 1](https://forms.gle/RwnUcuqLiWj6uvfw6)
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
