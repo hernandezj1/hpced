@@ -3,6 +3,7 @@ layout: page
 title: What is HPC?
 description: Doc pages for lesson 1-1
 parent: Intro to HPC
+grand_parent: Docs
 ---
 
 ### Reference Documentation Pages
