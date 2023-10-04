@@ -2,6 +2,7 @@
 layout: page
 title: What is HPC?
 description: Doc pages for lesson 1-1
+nav_order: 3
 ---
 
 ### Reference Documentation Pages
