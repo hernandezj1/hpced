@@ -5,7 +5,7 @@ title: Intro to HPC
 **1.1**{: .label .label-purple }
 : [What is HPC?](#)
    : [Video](#)
-      :[Docs](#)
+      :[Docs](introtohpcdocs/1_1_WhatisHPC.md)
 
 **1.2**{: .label .label-purple }
 : [Accounts](#)
