@@ -3,7 +3,7 @@ title: Software Specific Module- R
 ---
 
 **6.1**{: .label .label-purple }
-: [Common Issues](#)
+: [R in Parallel](#)
    : [Video](#)
       :[Docs](#)
 
@@ -11,7 +11,12 @@ title: Software Specific Module- R
 : [Package Installation](#)
    : [Video](#)
       :[Docs](#)
-
+      
+**6.3**{: .label .label-purple }
+: [Common Issues](#)
+   : [Video](#)
+      :[Docs](#)
+      
 [Quiz](#){: .label .label-red }
 
 
