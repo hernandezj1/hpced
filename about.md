@@ -34,7 +34,11 @@ The 5 sections of the course cover the following topics
 
 4. <ins>Software Specific Module- Python</ins>
 
-5. <ins>Trouble-Shooting</ins>
+5. <ins>Software Specific Module- Matlab</ins>
+
+6. <ins>Software Specific Module- R</ins>
+
+7. <ins>Troubleshooting</ins>
 
 
 ## Additional Resources
