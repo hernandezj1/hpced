@@ -8,6 +8,6 @@ grand_parent: Docs
 
 ### Reference Documentation Pages
 
-- <a href="https://its.fsu.edu/research/rcc-user-accounts">Accounts overview</a>
+- <a href="https://ood.rcc.fsu.edu/"> Open On Demand Login page</a>
 
-- <a href="https://acct.rcc.fsu.edu/manage/login">Request an RCC account</a>
+- <a href="https://acct.rcc.fsu.edu/manage/login"> Account login</a>
