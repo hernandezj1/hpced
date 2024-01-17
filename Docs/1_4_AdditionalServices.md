@@ -12,4 +12,4 @@ grand_parent: Docs
 
 - <a href="https://docs.rcc.fsu.edu/">RCC Docs</a>
 
-- <a href=" support@rcc.fsu.edu"> Contact email for additional requests</a>
+- <a href=" mailto:[support@rcc.fsu.edu]"> Contact email for additional requests</a>
