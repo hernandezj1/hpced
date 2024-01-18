@@ -8,8 +8,8 @@ title: Intro to HPC
       :[Docs](https://hernandezj1.github.io/hpced/Docs/1_1_WhatisHPC/)
 
 **1.2**{: .label .label-purple }
-: [Accounts](#)
-   : [Video](#)
+: [Accounts](https://www.youtube.com/watch?v=UVlfHjdiB2A)
+   : [Video](https://www.youtube.com/watch?v=UVlfHjdiB2A)
       :[Docs](https://hernandezj1.github.io/hpced/Docs/1_2_Accounts/)
       
 **1.3**{: .label .label-purple }
