@@ -13,13 +13,13 @@ title: Intro to HPC
       :[Docs](https://hernandezj1.github.io/hpced/Docs/1_2_Accounts/)
       
 **1.3**{: .label .label-purple }
-: [Login Guidelines](#)
-   : [Video](#)
+: [Login Guidelines](https://www.youtube.com/watch?v=_Gz9ka_iT7s)
+   : [Video](https://www.youtube.com/watch?v=_Gz9ka_iT7s)
       :[Docs](https://hernandezj1.github.io/hpced/Docs/1_3_LoginGuidelines/)
       
 **1.4**{: .label .label-purple }
-: [Additional Services](#)
-   : [Video](#)
+: [Additional Services](https://www.youtube.com/watch?v=72GVNyDzbc8)
+   : [Video](https://www.youtube.com/watch?v=72GVNyDzbc8)
       :[Docs](https://hernandezj1.github.io/hpced/Docs/1_4_AdditionalServices/)
       
 [Quiz](https://forms.gle/MeAUbTa4zfQNPA7FA){: .label .label-red }
