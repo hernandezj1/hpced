@@ -13,8 +13,8 @@ title: Track 1- SSH/Terminal
       :[Docs](https://hernandezj1.github.io/hpced/Docs/2_2_JobSubmission/)
       
 **2.3**{: .label .label-purple }
-: [Data Transfer](#)
-   : [Video](#)
+: [Data Transfer](https://www.youtube.com/watch?v=CT0AiTmXxDU)
+   : [Video](https://www.youtube.com/watch?v=CT0AiTmXxDU)
       :[Docs](https://hernandezj1.github.io/hpced/Docs/2_3_DataTransfer/)
 
 [Quiz](https://forms.gle/KyzJcctMPRmPvWez9){: .label .label-red }
