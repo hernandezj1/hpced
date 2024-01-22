@@ -17,5 +17,5 @@ title: Track 1- SSH/Terminal
    : [Video](#)
       :[Docs](https://hernandezj1.github.io/hpced/Docs/2_3_DataTransfer/)
 
-[Quiz](#){: .label .label-red }
+[Quiz](https://forms.gle/KyzJcctMPRmPvWez9){: .label .label-red }
 
