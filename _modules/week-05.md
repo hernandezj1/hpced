@@ -3,12 +3,12 @@ title: Software Specific Module- Matlab
 ---
 
 **5.1**{: .label .label-purple }
-: [Matlab in Parallel](#)
+: [Matlab in HPC](#)
    : [Video](#)
       :[Docs](#)
       
 **5.2**{: .label .label-purple }
-: [Common Issues](#)
+: [Toolbox Installation](#)
    : [Video](#)
       :[Docs](#)
       
