@@ -20,7 +20,7 @@ title: Software-Specific Module- Python
 **4.4**{: .label .label-purple }
 : [Spyder IDE](#)
    : [Video](#)
-      :[Docs]https://hernandezj1.github.io/hpced/Docs/4_4_SpyderIDE/)
+      :[Docs](https://hernandezj1.github.io/hpced/Docs/4_4_SpyderIDE/)
 
 **4.5**{: .label .label-purple }
 : [RCC Python Bootcamp](https://www.youtube.com/watch?v=-YApuj7cgc0&list=PLxmQg6v9EuG3OqllwqY-91JyntwSTONfc)
