@@ -8,5 +8,7 @@ grand_parent: Docs
 
 ### Reference Documentation Pages
 
-<a href="https://docs.rcc.fsu.edu/software/jupyter/">Jupyter Notebooks docs</a>
+<a href="https://docs.rcc.fsu.edu/software/jupyter/">Jupyter Notebooks RCC docs</a>
+
+<a href="https://jupyter-notebook.readthedocs.io/en/stable/">Jupyter Notebooks general docs</a>
 
