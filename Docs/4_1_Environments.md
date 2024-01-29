@@ -14,7 +14,12 @@ grand_parent: Docs
 
 <a href="https://docs.rcc.fsu.edu/software/python/#virtualenv">Virtual Environment Installation</a>
 
-<a href="https://docs.rcc.fsu.edu/software/conda/">Conda Docs</a>
+<a href="https://docs.rcc.fsu.edu/software/conda/">Conda & Anaconda RCC Docs</a>
+
+<a href="https://docs.conda.io/en/latest/">Conda general Docs</a>
+
+<a href="https://docs.anaconda.com/">Anaconda general Docs</a>
+
 
 
 
