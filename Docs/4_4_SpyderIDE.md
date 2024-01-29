@@ -7,3 +7,7 @@ grand_parent: Docs
 ---
 
 ### Reference Documentation Pages
+
+<a href="https://docs.rcc.fsu.edu/software/spyder/">Spyder IDE RCC docs</a>
+
+<a href="https://docs.spyder-ide.org/current/index.html">Spyder IDE general docs</a>
