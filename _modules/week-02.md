@@ -8,8 +8,8 @@ title: Track 1- SSH/Terminal
       :[Docs](https://hernandezj1.github.io/hpced/Docs/2_1_Login/)
 
 **2.2**{: .label .label-purple }
-: [Job Submission](#)
-   : [Video](#)
+: [Job Submission](https://www.youtube.com/watch?v=vJ3N2-Wx1Nk)
+   : [Video](https://www.youtube.com/watch?v=vJ3N2-Wx1Nk)
       :[Docs](https://hernandezj1.github.io/hpced/Docs/2_2_JobSubmission/)
       
 **2.3**{: .label .label-purple }
