@@ -3,8 +3,8 @@ title: Software-Specific Module- Python
 ---
 
 **4.1**{: .label .label-purple }
-: [Environments](https://www.youtube.com/watch?v=k4oovOZl8Qo)
-   : [Video](https://www.youtube.com/watch?v=k4oovOZl8Qo)
+: [Environments](https://www.youtube.com/watch?v=PoqQpjqSPOo)
+   : [Video](https://www.youtube.com/watch?v=PoqQpjqSPOo)
       :[Docs](https://hernandezj1.github.io/hpced/Docs/4_1_Environments/)
 
 **4.2**{: .label .label-purple }
