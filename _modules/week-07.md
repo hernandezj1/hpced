@@ -5,7 +5,7 @@ title: Trouble-Shooting
 **7.1**{: .label .label-purple }
 : [Asking for Help](https://www.youtube.com/watch?v=1Ney6lb6fH0)
    : [Video](https://www.youtube.com/watch?v=1Ney6lb6fH0)
-      :[Docs](#)
+      :[Docs](https://hernandezj1.github.io/hpced/Docs/7_1_AskingforHelp/)
       
 **7.2**{: .label .label-purple }
 : [Scratch Space](#)
