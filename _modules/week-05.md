@@ -5,11 +5,11 @@ title: Software Specific Module- Matlab
 **5.1**{: .label .label-purple }
 : [Matlab in HPC](#)
    : [Video](#)
-      :[Docs](#)
+      :[Docs](https://hernandezj1.github.io/hpced/Docs/5_1_MatlabinHPC/)
       
 **5.2**{: .label .label-purple }
 : [Toolbox Installation](#)
    : [Video](#)
-      :[Docs](#)
+      :[Docs](https://hernandezj1.github.io/hpced/Docs/5_2_ToolboxInstallation/)
       
 [Quiz](#){: .label .label-red }
