@@ -3,8 +3,8 @@ title: Track 2- Open On Demand
 ---
 
 **3.1**{: .label .label-purple }
-: [Overview & Login](#)
-   : [Video](#)
+: [Overview & Login](https://www.youtube.com/watch?v=UerdeoR_aHk)
+   : [Video](https://www.youtube.com/watch?v=UerdeoR_aHk)
       :[Docs](https://hernandezj1.github.io/hpced/Docs/3_1_Overview&Login/)
       
 **3.2**{: .label .label-purple }
