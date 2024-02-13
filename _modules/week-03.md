@@ -18,8 +18,8 @@ title: Track 2- Open On Demand
       :[Docs](https://hernandezj1.github.io/hpced/Docs/3_3_InteractiveSessions/)
       
 **3.4**{: .label .label-purple }
-: [Job Management](#)
-   : [Video](#)
+: [Job Management](https://www.youtube.com/watch?v=gKmY8EUbzOY)
+   : [Video](https://www.youtube.com/watch?v=gKmY8EUbzOY)
       :[Docs](https://hernandezj1.github.io/hpced/Docs/3_4_JobManagement/)
       
 
