@@ -13,8 +13,8 @@ title: Track 2- Open On Demand
       :[Docs](https://hernandezj1.github.io/hpced/Docs/3_2_FileManagement/)
       
 **3.3**{: .label .label-purple }
-: [Interactive Sessions](#)
-   : [Video](#)
+: [Interactive Sessions](https://www.youtube.com/watch?v=N3jzOP16UqY)
+   : [Video](https://www.youtube.com/watch?v=N3jzOP16UqY)
       :[Docs](https://hernandezj1.github.io/hpced/Docs/3_3_InteractiveSessions/)
       
 **3.4**{: .label .label-purple }
