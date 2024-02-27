@@ -8,7 +8,7 @@ title: Trouble-Shooting
       :[Docs](https://hernandezj1.github.io/hpced/Docs/7_1_AskingforHelp/)
       
 **7.2**{: .label .label-purple }
-: [Scratch Space](#)
+: [Storage Space](#)
    : [Video](#)
       :[Docs](#)
 
