@@ -3,8 +3,8 @@ title: Software Specific Module- Matlab
 ---
 
 **5.1**{: .label .label-purple }
-: [Matlab in HPC](#)
-   : [Video](#)
+: [Matlab in HPC](https://www.youtube.com/watch?v=m2MVry-PCcU)
+   : [Video](https://www.youtube.com/watch?v=m2MVry-PCcU)
       :[Docs](https://hernandezj1.github.io/hpced/Docs/5_1_MatlabinHPC/)
       
 **5.2**{: .label .label-purple }
