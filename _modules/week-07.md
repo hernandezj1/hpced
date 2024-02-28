@@ -8,8 +8,8 @@ title: Trouble-Shooting
       :[Docs](https://hernandezj1.github.io/hpced/Docs/7_1_AskingforHelp/)
       
 **7.2**{: .label .label-purple }
-: [Storage Space](#)
-   : [Video](#)
+: [Storage & Purchasing](https://www.youtube.com/watch?v=XNLg0-v7v18)
+   : [Video](https://www.youtube.com/watch?v=XNLg0-v7v18)
       :[Docs](#)
 
 **7.3**{: .label .label-purple }
