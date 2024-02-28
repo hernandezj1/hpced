@@ -10,12 +10,12 @@ title: Trouble-Shooting
 **7.2**{: .label .label-purple }
 : [Storage & Purchasing](https://www.youtube.com/watch?v=XNLg0-v7v18)
    : [Video](https://www.youtube.com/watch?v=XNLg0-v7v18)
-      :[Docs](#)
+      :[Docs](https://hernandezj1.github.io/hpced/Docs/7_2_Storage&Purchashing/)
 
 **7.3**{: .label .label-purple }
-: [Common Errors](#)
-   : [Video](#)
-      :[Docs](#)
+: [Common Issues](https://www.youtube.com/watch?v=xwMmx5C6vLc)
+   : [Video](https://www.youtube.com/watch?v=xwMmx5C6vLc)
+      :[Docs](https://hernandezj1.github.io/hpced/Docs/7_3_CommonErrors/)
 
 
 [Quiz](#){: .label .label-red }
